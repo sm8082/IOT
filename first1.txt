@@ -1,1 +1,3 @@
 ﻿New Repo > Project 1 > first.txt 
+
+Git exams are equally important for all four batches
