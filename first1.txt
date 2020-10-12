@@ -1,3 +1,7 @@
 ﻿New Repo > Project 1 > first.txt 
 
+<<<<<<< HEAD
 Git exams are equally important for all four batches
+=======
+I am adding a new line now (REHAN)
+>>>>>>> fa30a6db296824d94b1acefd0d57132fa913773b
