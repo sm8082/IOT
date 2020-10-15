@@ -1,3 +1,5 @@
 Add by Arslan
 
 Adding a new line on the second day of exam preperation session
+
+Checking how stuff works on SMART GIT
